@@ -1,0 +1,100 @@
+{
+  "scope": "README presentation references only; media binaries are excluded from this packaging snapshot and are not runtime APK assets.",
+  "candidate_version": "2.9.13",
+  "candidate_version_code": 306,
+  "stable_gameplay_art_source": "2.9.11/code304",
+  "excluded_candidate": "2.9.12/code305",
+  "verified_public_reference_commit": "74deb0a6a5ac06f552e6bae1ed0dd60f98e1fc81",
+  "verification": "Local git show of the fixed public source commit and SHA256 equality; no network fetch or public repository mutation performed.",
+  "files": [
+    {
+      "kind": "Brand concept poster",
+      "source": "基于用户提供的海报，经AI辅助排版扩展及尺寸适配的横版概念海报；不代表游戏截图。",
+      "bytes": 1508214,
+      "sha256": "85f6ac1ef89c2f8dc67a60ec1cf92a843956ad03db4374d1d2f5816e8be0c07f",
+      "asset_id": "ocean-world-poster",
+      "storage": "external-public-fixed-commit",
+      "url": "https://raw.githubusercontent.com/JacksonGreatWorld/OceanWorld-Unity/74deb0a6a5ac06f552e6bae1ed0dd60f98e1fc81/docs/images/ocean-world-poster.jpg",
+      "reference_kind": "asset",
+      "same_hash_public_asset_verified": true,
+      "public_git_commit": "74deb0a6a5ac06f552e6bae1ed0dd60f98e1fc81",
+      "public_git_path": "docs/images/ocean-world-poster.jpg"
+    },
+    {
+      "kind": "Unity Editor scene, 2.9.8",
+      "source": "https://github.com/JacksonGreatWorld/OceanWorld-Unity/blob/main/docs/images/coral-sanctuary-v2.9.8.png",
+      "bytes": 1240392,
+      "sha256": "d3567316cb105ac53dbcc89dc489d30e8d84840150896cb7a29a06a4d84d6cda",
+      "asset_id": "coral-sanctuary",
+      "storage": "external-public-fixed-commit",
+      "url": "https://raw.githubusercontent.com/JacksonGreatWorld/OceanWorld-Unity/74deb0a6a5ac06f552e6bae1ed0dd60f98e1fc81/docs/images/coral-sanctuary-v2.9.8.png",
+      "reference_kind": "asset",
+      "same_hash_public_asset_verified": true,
+      "public_git_commit": "74deb0a6a5ac06f552e6bae1ed0dd60f98e1fc81",
+      "public_git_path": "docs/images/coral-sanctuary-v2.9.8.png"
+    },
+    {
+      "kind": "Existing Unity Editor scene",
+      "source": "https://github.com/JacksonGreatWorld/OceanWorld-Unity/blob/main/docs/images/marine-turtle-v2.8.9.png",
+      "bytes": 1224606,
+      "sha256": "66c45b871ab53fc7c85f5e5d63a03e4b39a4eb40be96e4d1c1f7b61302cb2321",
+      "asset_id": "marine-turtle",
+      "storage": "external-public-fixed-commit",
+      "url": "https://raw.githubusercontent.com/JacksonGreatWorld/OceanWorld-Unity/74deb0a6a5ac06f552e6bae1ed0dd60f98e1fc81/docs/images/marine-turtle-v2.8.9.png",
+      "reference_kind": "asset",
+      "same_hash_public_asset_verified": true,
+      "public_git_commit": "74deb0a6a5ac06f552e6bae1ed0dd60f98e1fc81",
+      "public_git_path": "docs/images/marine-turtle-v2.8.9.png"
+    },
+    {
+      "kind": "Existing shell model showcase",
+      "source": "用户已提供并用于详情页的十种贝壳模型展示图。",
+      "bytes": 709461,
+      "sha256": "cf211e4ba08902b5836c4db2f0606e2cb250a3ef76a7092237cd368f7f84f860",
+      "asset_id": "shell-collection",
+      "storage": "original-retained-outside-packaging-repository",
+      "url": "https://github.com/JacksonGreatWorld/OceanWorld-Unity/blob/74deb0a6a5ac06f552e6bae1ed0dd60f98e1fc81/README.md",
+      "reference_kind": "public-project-introduction-only",
+      "same_hash_public_asset_verified": false,
+      "note": "此原图已从打包仓库排除，原件保留。链接仅指向公开项目介绍，不声称公开仓存在同一图。"
+    },
+    {
+      "kind": "Unity Editor reef detail capture",
+      "source": "本项目既有2026-10-21场景预览截图；不包含系统界面或玩家身份。",
+      "bytes": 3864294,
+      "sha256": "71a84da5a14a681ef5dbabfa8d5847db775d6fd575b9fff046a3754c6ba0898a",
+      "asset_id": "reef-close",
+      "storage": "original-retained-outside-packaging-repository",
+      "url": "https://github.com/JacksonGreatWorld/OceanWorld-Unity/blob/74deb0a6a5ac06f552e6bae1ed0dd60f98e1fc81/README.md",
+      "reference_kind": "public-project-introduction-only",
+      "same_hash_public_asset_verified": false,
+      "note": "此原图已从打包仓库排除，原件保留。链接仅指向公开项目介绍，不声称公开仓存在同一图。"
+    },
+    {
+      "kind": "Preview excerpt, early Unity gameplay",
+      "source": "同目录完整视频2–6秒片段，480×270、8fps。",
+      "bytes": 1555158,
+      "sha256": "9376db111fe174de33a053ee4b64352497351c9cd29ff7bb1ab6e2ef35afafca",
+      "asset_id": "gameplay-preview",
+      "storage": "external-public-fixed-commit",
+      "url": "https://raw.githubusercontent.com/JacksonGreatWorld/OceanWorld-Unity/74deb0a6a5ac06f552e6bae1ed0dd60f98e1fc81/docs/images/gameplay-preview.gif",
+      "reference_kind": "asset",
+      "same_hash_public_asset_verified": true,
+      "public_git_commit": "74deb0a6a5ac06f552e6bae1ed0dd60f98e1fc81",
+      "public_git_path": "docs/images/gameplay-preview.gif"
+    },
+    {
+      "kind": "Early Unity gameplay recording",
+      "source": "2026-10-11留存的Unity-original-20s.mp4；720p H.264静音副本，去除音轨及元数据，非当前审核包验收。",
+      "bytes": 3650423,
+      "sha256": "40c3d6a99d87d65895fed825c38d9c0b5d3acc80c3e170f1370ffc36ea832a58",
+      "asset_id": "oceanworld-gameplay-720p",
+      "storage": "external-public-fixed-commit",
+      "url": "https://raw.githubusercontent.com/JacksonGreatWorld/OceanWorld-Unity/74deb0a6a5ac06f552e6bae1ed0dd60f98e1fc81/docs/videos/oceanworld-gameplay-720p.mp4",
+      "reference_kind": "asset",
+      "same_hash_public_asset_verified": true,
+      "public_git_commit": "74deb0a6a5ac06f552e6bae1ed0dd60f98e1fc81",
+      "public_git_path": "docs/videos/oceanworld-gameplay-720p.mp4"
+    }
+  ]
+}
